@@ -1,7 +1,7 @@
 
-##sDeploy Spring Boot application on ec2 Instance.
+##Deploy Spring Boot application on ec2 Instance.
 
-EC instance type: use Amazon Linux 2 AMI (HVM),
+EC2 instance type: use Amazon Linux 2 AMI (HVM),
 
 
 This application will demonstrate running of Spring boot simple Hello world application
